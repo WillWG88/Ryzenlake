@@ -1,4 +1,5 @@
 Nama: William Gunawan
+
 NIM : 16520290
                                            
 Salah satu produk dari google developer yang membuat saya tertarik adalah google cloud. google cloud adalah sebuah produk komputasi awan(cloud computing) yang menyediakan layanan infrastruktur, layanan platform, dan lingkungan komputasi tanpa server.                                                                                                                                                                                                                                                                                                                    
@@ -32,4 +33,15 @@ Contoh produk google cloud di bidang penyimpanan data:
 3.Cloud Spanner - Layanan basis data relasional yang horizontal, skalabel, dan sangat konsisten.
 
 4.Cloud Datastore - NoSQL database untuk aplikasi web dan seluler.
+
+Contoh produk Google Cloud pada big data:
+
+1.BigQuery 
+
+2.Cloud Dataflow 
+
+3.Cloud Dataproc 
+
+4.Cloud Composer 
+
 
